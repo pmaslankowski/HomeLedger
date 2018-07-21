@@ -1,0 +1,4 @@
+rootProject.name = 'HomeLedger'
+include 'web'
+findProject(':web')?.name = 'HomeLedger'
+
