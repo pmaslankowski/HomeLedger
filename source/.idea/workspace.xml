@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d4bf9770-8df6-4a8b-bfec-5b443a84449f" name="Default" comment="Added bootstrap dashboard template with as jsp">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d4bf9770-8df6-4a8b-bfec-5b443a84449f" name="Default" comment="Added some idea files to .gitignore" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -85,7 +83,7 @@
       <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/web/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
+            <state relative-caret-position="462">
               <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
             </state>
           </provider>
@@ -904,7 +902,7 @@
       <option name="presentableId" value="Default" />
       <updated>1532214491133</updated>
       <workItem from="1532214496000" duration="1042000" />
-      <workItem from="1532298621899" duration="37048000" />
+      <workItem from="1532298621899" duration="37523000" />
     </task>
     <task id="LOCAL-00001" summary="Added bootstrap dashboard template with as jsp">
       <created>1532648142780</created>
@@ -920,11 +918,25 @@
       <option name="project" value="LOCAL" />
       <updated>1532648351001</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Added .gitignore file">
+      <created>1532648584107</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1532648584107</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Added some idea files to .gitignore">
+      <created>1532648798211</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1532648798211</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="38090000" />
+    <option name="totallyTimeSpent" value="38565000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
@@ -997,7 +1009,10 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Added bootstrap dashboard template with as jsp" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added bootstrap dashboard template with as jsp" />
+    <MESSAGE value="Added .gitignore file" />
+    <MESSAGE value="Idea project changes" />
+    <MESSAGE value="Added some idea files to .gitignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added some idea files to .gitignore" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1452,7 +1467,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/web/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
+        <state relative-caret-position="462">
           <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
         </state>
       </provider>
