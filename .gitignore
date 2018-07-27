@@ -1,7 +1,7 @@
 env/data
 build
 out
-**/.idea/workspace.xml
+source/.idea/workspace.xml
 source/.idea/tasks.xml
 source/.idea/vcs.xml
 source/.idea/jsLibraryMapping.xml
