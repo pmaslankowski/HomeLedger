@@ -9,11 +9,11 @@
   <meta name="author" content="">
   <title>SB Admin - Start Bootstrap Template</title>
   <!-- Bootstrap core CSS-->
-  <link href="webjars/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="/webjars/bootstrap/css/bootstrap.min.css" rel="stylesheet">
   <!-- Custom fonts for this template-->
-  <link href="webjars/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
+  <link href="/webjars/font-awesome/css/font-awesome.css" rel="stylesheet" type="text/css">
   <!-- Custom styles for this template-->
-  <link href="css/sb-admin.css" rel="stylesheet">
+  <link href="/css/sb-admin.css" rel="stylesheet">
 </head>
 
 <body class="fixed-nav sticky-footer bg-dark" id="page-top">
@@ -267,12 +267,12 @@
       </div>
     </div>
     <!-- Bootstrap core JavaScript-->
-    <script src="webjars/jquery/jquery.min.js"></script>
-    <script src="webjars/bootstrap/js/bootstrap.bundle.min.js"></script>
+    <script src="/webjars/jquery/jquery.min.js"></script>
+    <script src="/webjars/bootstrap/js/bootstrap.bundle.min.js"></script>
     <!-- Core plugin JavaScript-->
-    <script src="webjars/jquery-easing/jquery.easing.min.js"></script>
+    <script src="/webjars/jquery-easing/jquery.easing.min.js"></script>
     <!-- Custom scripts for all pages-->
-    <script src="js/sb-admin.min.js"></script>
+    <script src="/js/sb-admin.min.js"></script>
   </div>
 </body>
 
